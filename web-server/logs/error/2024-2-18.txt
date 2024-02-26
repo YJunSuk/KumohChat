@@ -1,0 +1,2 @@
+2024. 2. 18. 오후 3:31:17  AxiosError: Request failed with status code 404
+2024. 2. 18. 오후 3:32:22  AxiosError: Request failed with status code 404
